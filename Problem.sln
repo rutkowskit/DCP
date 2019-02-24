@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Python\Problem20190219.ipynb = Python\Problem20190219.ipynb
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem20190220", "Problem20190220\Problem20190220.vcxproj", "{783E3094-48D0-46BF-8920-76365A8DB2FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -46,6 +48,14 @@ Global
 		{1A18F84F-7FC8-42E3-A4B4-6F3595FA2609}.Release|x64.Build.0 = Release|x64
 		{1A18F84F-7FC8-42E3-A4B4-6F3595FA2609}.Release|x86.ActiveCfg = Release|Win32
 		{1A18F84F-7FC8-42E3-A4B4-6F3595FA2609}.Release|x86.Build.0 = Release|Win32
+		{783E3094-48D0-46BF-8920-76365A8DB2FB}.Debug|x64.ActiveCfg = Debug|x64
+		{783E3094-48D0-46BF-8920-76365A8DB2FB}.Debug|x64.Build.0 = Debug|x64
+		{783E3094-48D0-46BF-8920-76365A8DB2FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{783E3094-48D0-46BF-8920-76365A8DB2FB}.Debug|x86.Build.0 = Debug|Win32
+		{783E3094-48D0-46BF-8920-76365A8DB2FB}.Release|x64.ActiveCfg = Release|x64
+		{783E3094-48D0-46BF-8920-76365A8DB2FB}.Release|x64.Build.0 = Release|x64
+		{783E3094-48D0-46BF-8920-76365A8DB2FB}.Release|x86.ActiveCfg = Release|Win32
+		{783E3094-48D0-46BF-8920-76365A8DB2FB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
