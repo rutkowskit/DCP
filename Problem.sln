@@ -9,6 +9,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem20190216", "Problem2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem20190218", "Problem20190218\Problem20190218.vcxproj", "{1A18F84F-7FC8-42E3-A4B4-6F3595FA2609}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4314D18C-F414-4EED-8125-6BFD519DA6EE}"
+	ProjectSection(SolutionItems) = preProject
+		Python\Problem20190219.ipynb = Python\Problem20190219.ipynb
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
