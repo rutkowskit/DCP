@@ -7,7 +7,6 @@
 #include <string>
 #include <algorithm>
 
-
 class StroboNumber
 {
 private:
